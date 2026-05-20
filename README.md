@@ -321,14 +321,14 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**GitHub ID:** [@thissidemayur](https://github.com/thissidemayur)
+**GitHub ID:** [@hunny44](https://github.com/hunny44)
 
 ---
 
 ## 🔗 Links
 
-- **GitHub Repository:** [thissidemayur/ecoTrack](https://github.com/thissidemayur/ecoTrack)
-- **Live Deployment:** [ecotrack.thissidemayur.me](https://ecotrack.thissidemayur.me)  
+- **GitHub Repository:** [hunny44/ecotrack](https://github.com/hunny44/ecotrack)
+- **Live Deployment:** [comming soon...]  
 - **API Documentation:** [Backend API.md](./backend/API.md)
 
 ---
